@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratbin Khan</h1>
-<h3 align="center">An enthusiast Mechatronics Engineering student</h3>
+<h3 align="center">An enthusiastic Mechatronics Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratzz64&label=Profile%20views&color=0e75b6&style=flat" alt="ratzz64" /> </p>
 
